@@ -1,0 +1,13 @@
+#imagen{
+    display: inline-block;
+    float: left;
+    width: 13%;
+    border: double; 
+}
+#titulo1{
+    display: inline-block;
+    width: 99%;
+    text-align: center;
+    border: double;
+    color: aquamarine;
+}

@@ -1,0 +1,23 @@
+#titulo{
+    text-align: center;
+    font-size: 40px;
+    color: coral;
+}
+.lista{
+    display: inline-block;
+    border: outset;
+    margin: 8px;
+    width: 99%;
+    background-color: teal;
+    color: palevioletred;
+}
+.imagen{
+    display: inline-block;
+    border: dashed;
+    float: right;
+    width: 20%;
+}
+.texto{
+    float:left;
+    width: 68%
+}

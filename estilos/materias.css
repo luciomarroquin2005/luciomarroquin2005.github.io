@@ -1,0 +1,31 @@
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+table{
+    width: 100%
+}
+th, td{
+    padding: 10px;
+}
+th{
+    text-align: left;
+    background-color: azure;
+}
+#titulo{
+    text-align: center;
+    font-size: 40px;
+    color: aqua;
+}
+.texto1{
+    background-color: mediumpurple;
+}
+.texto2{
+    background-color: red;
+}
+.texto3{
+    background-color: darkseagreen;
+}
+.texto4{
+    background-color: darkturquoise
+}

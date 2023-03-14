@@ -1,0 +1,40 @@
+
+#logo1{
+    display: inline-block;
+    width: 15%;
+    float: left;
+}
+#titulo{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+}
+#logo2{
+    display: inline-block;
+    width: 10%;
+    text-align: right;
+}
+#barra{
+    clear: both;
+}
+.menu{
+    display: inline-block;
+    width: 10%;
+    background-color: azure;
+    font-size: 20px;
+    text-align: center;
+    border: solid;
+}
+#marco{
+    width: 100%;
+    padding: 8px;
+    height: 400px;
+}
+#pie{
+    text-align: center;
+    font-size: 20px;
+    border: outset;
+}
+body{
+background-image: linear-gradient(to bottom, #6bd178, #00cfa9, #00c8d8, #00bbf7, #25a9ff, #799bfd, #ae8bed, #d479d3, #e470c1, #f067ad, #f86297, #fb5f81);
+}

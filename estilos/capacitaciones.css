@@ -1,0 +1,22 @@
+#titulo{
+    text-align: center;
+    font-size: 40px;
+    color: aqua;
+}
+.lista{
+    display: inline-block;
+    border: solid;
+    margin: 8px;
+    width: 99%;
+    background-color: bisque;
+    color: teal
+}
+.imagen{
+    display: inline-block;
+    border: inset;
+    float: right
+}
+.texto{
+    float:left;
+    width: 68%
+}
